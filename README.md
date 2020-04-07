@@ -35,3 +35,4 @@ files, it will automatically build your project and update your browser without 
 
 # Screenshot for Project
 ![BrowserSync Screenshot](screenshots/BrowserSync.png)
+![LocalHost Screenshot](screenshots/localhost.png)
